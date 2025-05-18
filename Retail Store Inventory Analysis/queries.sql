@@ -1,1 +1,2 @@
-
+CREATE TABLE retail_store_inventory (date date, store_id varchar(50), product_id varchar(50), category varchar(50), region varchar(50), inventory varchar(50), units_sold varchar(50), units_ordered varchar(50), demand_forecast varchar(50), price varchar(50), discount varchar(50), weather varchar(50), holiday_promotion varchar(50), competition_pricing varchar(50), seasonality varchar(50))
+SELECT * FROM retail_store_inventory
