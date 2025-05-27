@@ -1,1 +1,3 @@
 Excel dashboard analyzing Lululemon's marketing and sales and social media performances across different states and cities. I used data provided in the Lululemon - Omnichannel Marketing Simulation on Forage
+
+![Lululemon Marketing Dashboard](./Lululemon Marketing Data Dashboard/Lululemon Marketing Data Dashboard.png)
