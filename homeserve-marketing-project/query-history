@@ -1,0 +1,30 @@
+-- Creating staging table, using varchar for an easier import
+
+CREATE TABLE usa_real_estate_staging (broker_id varchar(100), status varchar(100), price varchar(100), bed varchar(100), bath varchar(100), acres varchar(100), street_id varchar(100), city varchar(100), state varchar(100), zip_code varchar(100), house_size varchar(100), prev_sold_date varchar(100));
+SELECT * FROM usa_real_estate_staging WHERE city = 'Milford' AND state = 'Connecticut' ORDER BY broker_id
+
+-- Changing columns to correct data types
+
+ALTER TABLE usa_real_estate_staging
+ALTER COLUMN broker_id TYPE integer
+USING CAST(CAST(price as numeric) AS integer);
+
+ALTER TABLE usa_real_estate_staging
+ALTER COLUMN price TYPE integer
+USING CAST(CAST(price as numeric) AS integer);
+
+ALTER TABLE usa_real_estate_staging
+ALTER COLUMN bed TYPE integer
+USING CAST(bed AS integer);
+
+ALTER TABLE usa_real_estate_staging
+ALTER COLUMN bath TYPE integer
+USING CAST(bath AS integer);
+
+ALTER TABLE usa_real_estate_staging
+ALTER COLUMN street_id TYPE integer
+USING CAST(CAST(street_id AS numeric) AS integer);
+
+ALTER TABLE usa_real_estate_staging
+ALTER COLUMN house_size TYPE integer
+USING CAST(house_size AS integer);
