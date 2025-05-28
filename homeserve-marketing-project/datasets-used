@@ -1,0 +1,29 @@
+Links to datasets I used:
+
+Real Estate USA DataSet
+
+realtor-data.csv (2,226,382 entries)
+brokered by (categorically encoded agency/broker)
+
+-- Columns:
+status (Housing status - a. ready for sale or b. ready to build)
+price (Housing price, it is either the current listing price or recently sold price if the house is sold recently)
+bed (# of beds)
+bath (# of bathrooms)
+acre_lot (Property / Land size in acres)
+street (categorically encoded street address)
+city (city name)
+state (state name)
+zip_code (postal code of the area)
+house_size (house area/size/living space in square feet)
+prev_sold_date (Previously sold date)
+
+https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Zillow Home Value Index (Updated Monthly)
+
+Zillow created the Zillow Home Value Index (ZHVI) to track housing trends more accurately than traditional methods like median sale price, which can be skewed by which homes sell each month. Instead of using only actual sales, Zillow uses “Zestimates”—machine learning-based estimated prices for almost every home. This lets them measure trends across all homes, even those not sold, and avoid bias from changing sales mixes. ZHVI shows monthly median home values by ZIP code, city, and other regions, and segments the market by property type and price tiers. It excludes foreclosure sales directly but still reflects their market impact, giving a more consistent view of true home value changes over time.
+
+https://www.kaggle.com/datasets/robikscube/zillow-home-value-index
