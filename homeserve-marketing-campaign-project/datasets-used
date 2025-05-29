@@ -3,7 +3,7 @@ Links to datasets I used:
 Real Estate USA DataSet
 
 realtor-data.csv (2,226,382 entries)
-brokered by (categorically encoded agency/broker)
+brokered by (categorically encoded agency/broker), data collected from relator.com
 
 -- Columns:
 status (Housing status - a. ready for sale or b. ready to build)
