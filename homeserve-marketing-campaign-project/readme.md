@@ -1,3 +1,8 @@
+Programs used: Excel, SQL, PowerBi
+
+Skills: joins, create table, cast, limit
+
+
 Data Preparation
 
 Real estate dataset:
