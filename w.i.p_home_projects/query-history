@@ -24,3 +24,11 @@ USING CAST(CAST(street_id AS numeric) AS integer);
 ALTER TABLE usa_real_estate_staging
 ALTER COLUMN house_size TYPE integer
 USING CAST(house_size AS integer);
+
+
+-- Finding the average price, bed's, and baths per state from the realtor dataset
+
+SELECT state, ROUND(AVG(price), 2) AS average_price, ROUND(AVG(bed)) AS bed, ROUND(AVG(bath)) AS bath 
+FROM usa_real_estate_staging 
+	GROUP BY state 
+	ORDER BY average_price DESC
