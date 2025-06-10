@@ -51,6 +51,47 @@ CREATE TABLE zillow_home_value_index (date date, state varchar, zhvi numeric);
 ALTER TABLE zillow_home_value_index
 ADD COLUMN region VARCHAR(50);
 
+UPDATE zillow_home_value_index
+SET state = 'District of Columbia'
+WHERE state = 'the District of Columbia';
+
+SELECT DISTINCT r.state
+FROM (
+  SELECT DISTINCT state FROM realtor_house_listings
+) r
+INNER JOIN (
+  SELECT DISTINCT state FROM zillow_home_value_index
+) z
+ON r.state = z.state;
+
+-- Use the zillow dataset to add a "region" column. assigning each state a region. because it has less values and a date column making the join between the two much easier
+
+UPDATE zillow_home_value_index
+SET region = CASE
+  WHEN state IN (
+    'Connecticut', 'Maine', 'Massachusetts', 'New Hampshire', 'Rhode Island', 'Vermont',
+    'New Jersey', 'New York', 'Pennsylvania'
+  ) THEN 'Northeast'
+
+  WHEN state IN (
+    'Illinois', 'Indiana', 'Iowa', 'Kansas', 'Michigan', 'Minnesota', 'Missouri',
+    'Nebraska', 'North Dakota', 'Ohio', 'South Dakota', 'Wisconsin'
+  ) THEN 'Midwest'
+
+  WHEN state IN (
+    'Delaware', 'Florida', 'Georgia', 'Maryland', 'North Carolina', 'South Carolina',
+    'Virginia', 'District of Columbia', 'West Virginia', 'Alabama',
+    'Kentucky', 'Mississippi', 'Tennessee', 'Arkansas', 'Louisiana',
+    'Oklahoma', 'Texas'
+  ) THEN 'South'
+
+  WHEN state IN (
+    'Alaska', 'Arizona', 'California', 'Colorado', 'Hawaii', 'Idaho', 'Montana',
+    'Nevada', 'New Mexico', 'Oregon', 'Utah', 'Washington', 'Wyoming'
+  ) THEN 'West'
+
+  ELSE 'Unknown'
+END;
 
 -- Finding the average price, bed's, baths, acres, and listings for sale per state from the realtor dataset
 
