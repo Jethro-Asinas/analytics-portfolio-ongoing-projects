@@ -64,7 +64,7 @@ INNER JOIN (
 ) z
 ON r.state = z.state;
 
--- Use the zillow dataset to add a "region" column. assigning each state a region. because it has less values and a date column making the join between the two much easier
+-- Use the zillow dataset to add a "region" column. assigning each state a region. because it has less values and a date column, making the join between the two when creating a table much easier
 
 UPDATE zillow_home_value_index
 SET region = CASE
