@@ -93,7 +93,7 @@ SET region = CASE
   ELSE 'Unknown'
 END;
 
--- Finding the average price, bed's, baths, acres, and listings for sale per state from the realtor dataset
+-- Finding the average price, beds, baths, acres, and listings for sale per state from the realtor dataset
 
 SELECT state, 
 	ROUND(AVG(price), 2) AS average_price, 
@@ -101,7 +101,7 @@ SELECT state,
 	ROUND(AVG(bath)) AS bath, 
 	ROUND(AVG(acres), 2) AS average_acres,
 	COUNT(CASE WHEN status = 'for_sale' THEN 1 END) AS listings_for_sale
-FROM realtor_house_listings 
+FROM realtor_house_listings WHERE prev_sold_date BETWEEN '2022-04-01' AND '2022-05-25'
 	GROUP BY state 
 	ORDER BY average_price DESC;
 
