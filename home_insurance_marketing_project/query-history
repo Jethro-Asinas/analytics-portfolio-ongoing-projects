@@ -105,3 +105,55 @@ FROM realtor_house_listings WHERE prev_sold_date BETWEEN '2022-04-01' AND '2022-
 	GROUP BY state 
 	ORDER BY average_price DESC;
 
+-- Create table showing top 5 cities with houses for sale and houses sold 
+
+CREATE TABLE top_5_cities_per_state AS
+SELECT state, city, houses_sold, houses_for_sale
+FROM (
+  SELECT 
+    state, 
+    city, 
+    COUNT(CASE WHEN status = 'sold' THEN 1 END) AS houses_sold,
+    COUNT(CASE WHEN status = 'for_sale' THEN 1 END) AS houses_for_sale,
+    ROW_NUMBER() OVER (PARTITION BY state ORDER BY COUNT(CASE WHEN status = 'sold' THEN 1 END) DESC) AS city_rank
+  FROM realtor_house_listings
+  WHERE prev_sold_date BETWEEN '2022-04-01' AND '2022-06-01'
+  GROUP BY state, city
+) ranked
+WHERE city_rank <= 5;
+
+-- Create table summarizing all of the data between the period of the realtor data and zillow home value index
+
+CREATE TABLE regional_summary AS
+SELECT 
+  z.state,
+  z.region,
+  z.date,
+  z.zhvi_value,
+  ROUND(r.average_price, 2) AS average_price,
+  ROUND(r.average_bed, 0) AS average_bed,
+  ROUND(r.average_bath, 0) AS average_bath,
+  ROUND(r.average_acres, 2) AS average_acres,
+  r.listings_for_sale
+FROM (
+  SELECT *
+  FROM zillow_home_value_index
+  WHERE date BETWEEN '2022-04-01' AND '2022-06-01'
+) z
+LEFT JOIN (
+  SELECT 
+    state, 
+    AVG(price) AS average_price, 
+    AVG(bed) AS average_bed, 
+    AVG(bath) AS average_bath, 
+    AVG(acres) AS average_acres,
+    COUNT(CASE WHEN status = 'for_sale' THEN 1 END) AS listings_for_sale
+  FROM realtor_house_listings 
+  WHERE prev_sold_date BETWEEN '2022-04-01' AND '2022-06-01'
+    AND price IS NOT NULL
+    AND bed IS NOT NULL
+    AND bath IS NOT NULL
+    AND acres IS NOT NULL
+  GROUP BY state
+) r ON z.state = r.state
+ORDER BY date DESC;
