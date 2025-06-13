@@ -157,3 +157,5 @@ LEFT JOIN (
   GROUP BY state
 ) r ON z.state = r.state
 ORDER BY date DESC;
+
+-- Exported tables as csv files to import and load into Tableau Public
