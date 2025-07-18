@@ -5,7 +5,7 @@ Skills: joins, create table, cast, limit
 
 Data Preparation
 
-Real estate dataset:
+Realtor dataset:
 Import csv column using VARCHAR data type for easier import
 Change relavent columns from VARCHAR to the correct data types using CAST functions
 Created a backup and staging table
