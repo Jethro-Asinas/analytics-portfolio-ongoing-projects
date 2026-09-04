@@ -1,4 +1,4 @@
-Programs used: Excel, SQL, PowerBi
+Programs used: Excel, SQL, Tableau
 
 Skills: joins, create table, cast, limit
 
