@@ -1,0 +1,539 @@
+﻿Source: ACS 1-Year Estimates Public Use Microdata Sample 2022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Weight used: PWGTP,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Universe: selected geographies: Connecticut,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,Sex (SEX),,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,Male,,,,,,,,,,,,,,Female,,,,,,,,,,,,,
+,,Age recode (AGEP_RC1),,,,,,,,,,,,,,Age recode (AGEP_RC1),,,,,,,,,,,,,
+Occupation recode for 2018 and later based on 2018 OCC codes,Total,Total Age recode (AGEP_RC1),18,19,20,21,22,23,24,25,26,27,28,29,30,Total Age recode (AGEP_RC1),18,19,20,21,22,23,24,25,26,27,28,29,30
+ -> Total,621374,317060,28426,26760,23174,21735,22084,27322,27802,25058,23825,22477,23310,20776,24311,304314,22753,28556,28232,22795,24001,25213,24332,20296,21547,23006,19805,21169,22609
+MGR-Chief Executives And Legislators,330,0,0,0,0,0,0,0,0,0,0,0,0,0,0,330,0,0,0,0,0,0,0,0,0,126,0,0,204
+MGR-General And Operations Managers,1086,776,0,0,0,0,0,15,0,0,0,86,300,71,304,310,0,0,0,0,0,0,0,154,0,56,65,0,35
+MGR-Advertising And Promotions Managers,385,0,0,0,0,0,0,0,0,0,0,0,0,0,0,385,0,0,0,0,0,0,0,0,304,0,81,0,0
+MGR-Marketing Managers,1487,144,0,0,0,0,0,0,0,144,0,0,0,0,0,1343,0,0,0,0,0,79,231,153,479,222,0,107,72
+MGR-Sales Managers,683,180,0,0,0,0,0,0,101,0,0,28,51,0,0,503,0,0,0,0,0,0,0,0,0,40,0,463,0
+MGR-Public Relations And Fundraising Managers,32,32,0,0,0,0,32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Administrative Services Managers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Facilities Managers,253,253,0,0,0,0,0,0,0,0,0,0,83,170,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Computer And Information Systems Managers,603,480,183,0,0,63,0,0,0,175,0,0,0,59,0,123,0,0,0,0,0,0,0,0,0,0,0,0,123
+MGR-Financial Managers,2784,1340,0,0,0,0,0,272,0,0,62,393,46,359,208,1444,0,0,0,0,59,64,625,31,0,0,110,185,370
+MGR-Compensation And Benefits Managers,66,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,0,0,0,0,0,0,0,0,0,0,0,66,0
+MGR-Human Resources Managers,69,69,0,0,0,0,0,0,0,0,0,0,0,0,69,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Training And Development Managers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Industrial Production Managers,249,249,0,0,0,0,0,0,0,0,63,64,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Purchasing Managers,473,473,0,0,0,0,0,0,0,304,106,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MGR-Transportation, Storage, And Distribution Managers",896,896,0,0,0,0,0,34,0,337,109,184,0,115,117,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MGR-Farmers, Ranchers, And Other Agricultural Managers",648,54,0,0,0,0,0,0,0,0,0,0,0,0,54,594,0,0,0,210,83,0,0,0,155,0,0,146,0
+MGR-Construction Managers,1363,1363,0,0,0,0,0,0,0,0,914,53,0,0,396,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Education And Childcare Administrators,2784,1786,0,0,677,135,223,58,0,0,0,440,139,33,81,998,0,0,0,82,105,0,230,0,0,132,229,44,176
+MGR-Architectural And Engineering Managers,292,292,0,0,0,0,0,0,0,0,0,237,0,55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Food Service Managers,4122,2402,0,230,152,0,93,0,254,501,122,397,582,71,0,1720,0,0,100,0,0,0,0,174,349,149,544,404,0
+MGR-Entertainment and Recreation Managers,80,80,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Lodging Managers,347,0,0,0,0,0,0,0,0,0,0,0,0,0,0,347,0,73,0,0,0,195,0,0,0,79,0,0,0
+MGR-Medical And Health Services Managers,1192,490,0,0,193,26,0,56,0,215,0,0,0,0,0,702,0,0,0,0,0,41,0,67,394,87,113,0,0
+MGR-Natural Sciences Managers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MGR-Property, Real Estate, And Community Association Managers",632,0,0,0,0,0,0,0,0,0,0,0,0,0,0,632,0,0,0,103,0,0,0,0,0,0,314,0,215
+MGR-Social And Community Service Managers,1869,112,0,0,0,0,0,46,0,0,0,0,0,0,66,1757,96,0,0,0,18,0,0,162,534,49,430,0,468
+MGR-Emergency Management Directors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MGR-Other Managers,8538,4837,0,458,0,0,216,227,522,258,1005,140,780,554,677,3701,0,0,374,0,1256,0,325,427,73,255,301,376,314
+"BUS-Agents And Business Managers Of Artists, Performers, And Athletes",266,266,0,0,73,147,0,0,0,0,0,46,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BUS-Buyers And Purchasing Agents, Farm Products",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"BUS-Wholesale And Retail Buyers, Except Farm Products",818,379,0,0,0,0,257,0,29,0,0,0,0,0,93,439,0,0,0,160,0,204,0,0,0,0,0,75,0
+"BUS-Purchasing Agents, Except Wholesale, Retail, And Farm Products",182,81,0,0,0,0,0,0,0,0,0,0,0,81,0,101,0,0,0,0,0,0,0,0,0,0,0,101,0
+"BUS-Claims Adjusters, Appraisers, Examiners, And Investigators",925,403,0,0,0,0,0,0,0,149,0,75,0,179,0,522,0,0,0,0,0,0,0,0,207,0,139,176,0
+BUS-Compliance Officers,190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,190,0,0,0,0,0,0,0,0,70,0,120,0,0
+BUS-Cost Estimators,83,83,0,0,0,0,0,0,0,0,0,0,0,0,83,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BUS-Human Resources Workers,1940,1066,0,0,0,235,0,147,312,0,0,192,0,80,100,874,0,119,0,0,222,55,14,83,0,94,92,195,0
+"BUS-Compensation, Benefits, And Job Analysis Specialists",365,0,0,0,0,0,0,0,0,0,0,0,0,0,0,365,0,0,0,0,0,0,365,0,0,0,0,0,0
+BUS-Training And Development Specialists,464,161,0,0,0,0,123,0,0,0,0,38,0,0,0,303,0,0,0,0,0,0,0,0,79,0,0,224,0
+BUS-Logisticians,69,69,0,0,0,0,0,0,51,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+BUS-Project Management Specialists,1460,850,0,0,0,0,0,0,0,0,0,121,131,147,451,610,0,0,0,0,0,198,77,0,0,101,0,76,158
+BUS-Management Analysts,2257,1367,0,0,0,0,106,465,291,50,64,134,257,0,0,890,0,0,0,90,0,0,74,294,107,0,52,273,0
+"BUS-Meeting, Convention, And Event Planners",614,0,0,0,0,0,0,0,0,0,0,0,0,0,0,614,0,0,0,0,0,0,0,352,143,0,119,0,0
+BUS-Fundraisers,13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,0,0,13,0,0,0,0,0,0,0,0,0,0
+BUS-Market Research Analysts And Marketing Specialists,2657,1069,0,0,0,184,161,0,0,0,297,99,207,77,44,1588,0,0,0,0,0,374,399,139,111,224,341,0,0
+"BUS-Business Operations Specialists, All Other",885,349,0,0,0,0,0,0,90,0,109,0,80,0,70,536,0,0,0,0,0,76,327,0,133,0,0,0,0
+FIN-Accountants And Auditors,5229,3481,0,0,0,0,378,985,177,472,0,881,153,128,307,1748,0,0,0,0,253,74,257,324,321,0,195,102,222
+FIN-Property Appraisers and Assessors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FIN-Budget Analysts,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,46,33,89,0
+FIN-Credit Analysts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FIN-Financial And Investment Analysts,987,690,0,0,0,0,0,220,213,66,48,143,0,0,0,297,0,0,0,0,0,0,0,94,51,0,0,99,53
+FIN-Personal Financial Advisors,1807,1483,0,0,0,0,0,246,144,262,63,179,139,267,183,324,0,0,0,80,0,0,0,0,67,0,0,0,177
+FIN-Insurance Underwriters,575,236,0,0,0,0,0,0,0,56,0,0,0,83,97,339,0,0,0,0,0,0,0,0,73,0,53,115,98
+FIN-Financial Examiners,189,0,0,0,0,0,0,0,0,0,0,0,0,0,0,189,0,0,0,0,0,0,0,189,0,0,0,0,0
+FIN-Credit Counselors And Loan Officers,205,104,0,0,0,0,0,0,0,0,0,0,104,0,0,101,0,0,0,0,0,33,0,0,0,0,0,0,68
+"FIN-Tax Examiners And Collectors, And Revenue Agents",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FIN-Tax Preparers,157,0,0,0,0,0,0,0,0,0,0,0,0,0,0,157,0,0,0,0,0,0,0,49,0,0,0,0,108
+FIN-Other Financial Specialists,115,73,0,0,0,0,0,0,0,73,0,0,0,0,0,42,0,0,0,0,0,0,0,0,0,0,42,0,0
+CMM-Computer And Information Research Scientists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMM-Computer Systems Analysts,2035,1127,0,0,0,0,0,134,0,204,138,94,129,296,132,908,0,0,0,122,268,143,0,218,54,0,103,0,0
+CMM-Information Security Analysts,624,505,0,0,0,0,0,132,0,0,0,229,0,144,0,119,0,0,0,0,0,0,0,0,0,69,50,0,0
+CMM-Computer Programmers,597,597,0,0,31,0,202,0,0,216,0,0,0,76,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMM-Software Developers,4579,4025,0,0,0,218,150,266,535,766,621,363,698,123,285,554,0,0,104,0,154,40,76,0,72,0,0,0,108
+CMM-Software Quality Assurance Analysts and Testers,342,269,0,0,0,0,0,0,97,0,0,0,114,0,58,73,0,0,0,0,0,0,0,0,0,0,0,73,0
+CMM-Web Developers,220,136,0,0,0,0,0,0,0,0,0,0,136,0,0,84,0,0,0,0,0,0,0,0,0,0,0,0,84
+CMM-Web And Digital Interface Designers,282,203,0,0,0,0,0,0,0,0,0,0,203,0,0,79,0,0,0,0,0,0,0,0,0,0,79,0,0
+CMM-Computer Support Specialists,1318,1318,0,0,203,201,110,169,280,33,255,67,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMM-Database Administrators and Architects,232,56,0,0,0,0,0,0,0,0,0,0,0,0,56,176,0,0,0,0,0,0,0,0,0,176,0,0,0
+CMM-Network And Computer Systems Administrators,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0,16,46,0
+CMM-Computer Network Architects,128,128,0,0,0,0,0,0,0,0,64,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CMM-Computer Occupations, All Other",1435,1202,0,223,0,0,0,141,440,0,0,91,144,79,84,233,0,0,0,0,0,87,0,0,0,0,0,146,0
+CMM-Actuaries,946,673,0,0,0,0,276,0,310,0,0,0,0,87,0,273,0,0,0,0,0,0,215,0,0,0,58,0,0
+CMM-Operations Research Analysts,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMM-Other Mathematical Science Occupations,2323,379,0,133,0,0,0,0,0,0,194,0,0,52,0,1944,93,125,747,109,0,0,337,35,0,73,0,34,391
+"ENG-Architects, Except Landscape And Naval",1023,800,0,0,0,0,0,0,800,0,0,0,0,0,0,223,0,0,0,0,0,0,0,179,0,0,0,0,44
+ENG-Landscape Architects,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,0,0,118,0,0,0,0,0,0,0,0,0,0
+"ENG-Surveyors, Cartographers, And Photogrammetrists",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENG-Aerospace Engineers,3046,2786,0,0,0,0,42,375,53,83,307,843,281,220,582,260,0,0,0,0,0,0,0,72,111,77,0,0,0
+ENG-Biomedical And Agricultural Engineers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENG-Chemical Engineers,1436,628,0,0,0,0,0,0,0,92,500,0,36,0,0,808,0,0,0,0,619,0,0,0,189,0,0,0,0
+ENG-Civil Engineers,2313,1635,0,74,156,60,0,535,203,151,163,88,51,0,154,678,0,0,0,0,315,0,0,0,161,134,68,0,0
+ENG-Computer Hardware Engineers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENG-Electrical And Electronics Engineers,772,772,0,0,0,60,0,0,22,208,89,0,182,0,211,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENG-Environmental Engineers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ENG-Industrial Engineers, Including Health And Safety",1757,1692,0,0,0,0,46,0,552,279,345,52,132,286,0,65,0,0,0,0,0,0,65,0,0,0,0,0,0
+ENG-Marine Engineers And Naval Architects,583,450,0,0,0,0,146,0,0,156,0,82,0,66,0,133,0,0,0,0,0,0,133,0,0,0,0,0,0
+ENG-Materials Engineers,77,77,0,0,0,0,0,0,0,77,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENG-Mechanical Engineers,1157,1090,0,0,0,0,246,495,0,0,97,30,222,0,0,67,0,0,0,0,0,0,67,0,0,0,0,0,0
+"ENG-Petroleum, Mining And Geological Engineers, Including Mining Safety Engineers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENG-Other Engineers,1646,1353,0,0,0,0,0,169,0,382,245,219,0,174,164,293,0,0,0,0,87,0,69,0,64,0,34,39,0
+ENG-Architectural And Civil Drafters,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,168,0,0
+ENG-Other Drafters,225,0,0,0,0,0,0,0,0,0,0,0,0,0,0,225,0,0,0,0,0,0,0,0,0,0,0,0,225
+ENG-Electrical And Electronic Engineering Technologists And Technicians,95,95,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ENG-Other Engineering Technologists And Technicians, Except Drafters",1618,853,0,0,326,0,0,0,269,130,0,70,0,0,58,765,0,0,0,0,76,0,0,109,0,135,0,0,445
+ENG-Surveying And Mapping Technicians,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Agricultural And Food Scientists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Biological Scientists,123,0,0,0,0,0,0,0,0,0,0,0,0,0,0,123,0,0,0,0,0,0,0,0,0,0,0,0,123
+SCI-Conservation Scientists And Foresters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Other Life Scientists,1967,1133,0,0,0,0,0,49,213,127,114,0,0,511,119,834,0,0,0,0,0,15,0,0,0,152,0,0,667
+SCI-Astronomers And Physicists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Atmospheric And Space Scientists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Chemists And Materials Scientists,1087,914,0,0,44,0,9,104,0,0,288,0,63,119,287,173,0,0,0,0,0,0,0,0,36,137,0,0,0
+"SCI-Environmental Scientists And Specialists, Including Health",117,89,0,0,0,0,0,0,0,0,0,89,0,0,0,28,0,0,0,0,0,0,0,0,0,0,28,0,0
+"SCI-Geoscientists And Hydrologists, Except Geographers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SCI-Physical Scientists, All Other",2896,1661,0,0,0,0,53,202,54,346,287,136,282,0,301,1235,0,0,0,0,166,160,140,144,165,41,29,333,57
+SCI-Economists,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,0,0,0,0,0,0,0,0,28,0,0,0,0
+SCI-Clinical And Counseling Psychologists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-School Psychologists,108,54,0,0,0,0,0,0,0,0,0,0,0,0,54,54,0,0,0,0,0,0,0,0,0,0,54,0,0
+SCI-Other Psychologists,163,75,0,0,0,0,0,0,0,75,0,0,0,0,0,88,0,0,0,0,0,0,0,88,0,0,0,0,0
+SCI-Urban And Regional Planners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Other Social Scientists,313,313,0,0,0,0,173,0,86,0,54,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Agricultural And Food Science Technicians,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Biological Technicians,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SCI-Chemical Technicians,289,289,0,0,0,0,0,0,0,289,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SCI-Environmental Science and Geoscience Technicians, And Nuclear Technicians",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SCI-Other Life, Physical, And Social Science Technicians",2732,1017,0,142,314,158,0,42,0,206,81,74,0,0,0,1715,162,491,0,0,0,251,537,274,0,0,0,0,0
+SCI-Occupational Health And Safety Specialists and Technicians,231,97,0,0,0,0,0,0,0,0,0,0,0,97,0,134,0,0,0,0,0,0,0,0,0,134,0,0,0
+CMS-Substance Abuse And Behavioral Disorder Counselors,135,59,0,0,0,0,0,0,0,0,0,0,59,0,0,76,0,0,0,0,0,0,0,0,0,76,0,0,0
+"CMS-Educational, Guidance, And Career Counselors And Advisors",2271,103,0,100,0,0,3,0,0,0,0,0,0,0,0,2168,0,0,0,0,0,256,0,376,40,688,0,108,700
+CMS-Marriage And Family Therapists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMS-Mental Health Counselors,364,190,0,0,0,0,0,0,0,0,190,0,0,0,0,174,0,0,0,0,0,0,0,0,97,0,0,77,0
+CMS-Rehabilitation Counselors,288,96,0,0,0,0,0,0,0,0,0,96,0,0,0,192,0,0,0,0,0,0,0,0,0,192,0,0,0
+"CMS-Counselors, All Other",2343,448,87,0,0,0,0,0,173,0,0,0,0,188,0,1895,68,0,337,147,0,0,41,0,0,0,574,0,728
+"CMS-Child, Family, And School Social Workers",117,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,0,0,0,0,0,0,0,0,0,0,117,0,0
+CMS-Healthcare Social Workers,677,110,0,0,0,0,0,0,32,0,0,0,78,0,0,567,0,0,0,0,0,0,218,53,0,0,0,0,296
+CMS-Mental Health And Substance Abuse Social Workers,93,93,0,0,0,0,0,0,0,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CMS-Social Workers, All Other",2554,480,0,0,0,139,0,0,0,180,161,0,0,0,0,2074,0,0,0,119,0,169,0,234,791,327,0,373,61
+CMS-Probation Officers And Correctional Treatment Specialists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CMS-Social And Human Service Assistants,1265,104,0,0,0,0,0,0,0,0,0,0,0,0,104,1161,78,0,186,0,396,95,0,0,0,88,0,0,318
+CMS-Other Community and Social Service Specialists,336,147,0,0,0,0,0,0,0,0,147,0,0,0,0,189,0,0,0,0,0,0,0,82,0,0,107,0,0
+CMS-Clergy,143,143,0,0,0,0,0,0,0,0,0,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CMS-Directors, Religious Activities And Education",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CMS-Religious Workers, All Other",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"LGL-Lawyers, And Judges, Magistrates, And Other Judicial Workers",1720,291,0,0,0,0,0,0,0,0,124,0,80,0,87,1429,0,0,0,0,0,0,0,0,53,463,365,0,548
+LGL-Judicial Law Clerks,104,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,0,0,0,0,0,0,0,0,104,0,0,0
+LGL-Paralegals And Legal Assistants,1512,140,0,0,0,0,0,0,0,0,0,0,0,53,87,1372,0,0,53,49,212,519,0,0,0,283,159,97,0
+"LGL-Title Examiners, Abstractors, and Searchers",207,0,0,0,0,0,0,0,0,0,0,0,0,0,0,207,0,0,0,0,0,0,0,0,0,0,0,0,207
+"LGL-Legal Support Workers, All Other",55,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,55,0
+EDU-Postsecondary Teachers,6359,3194,0,0,599,341,0,519,318,537,85,70,195,387,143,3165,54,158,0,91,577,454,281,186,367,286,203,345,163
+EDU-Preschool And Kindergarten Teachers,3872,319,0,0,0,0,0,186,0,0,0,77,0,56,0,3553,508,0,409,134,0,361,80,222,202,0,84,871,682
+EDU-Elementary And Middle School Teachers,9145,2034,0,0,74,142,0,493,409,114,96,273,151,282,0,7111,0,0,106,0,155,1571,755,695,941,958,358,1007,565
+EDU-Secondary School Teachers,2602,1060,0,0,0,0,0,0,447,0,67,0,0,412,134,1542,0,0,0,0,69,0,67,289,176,168,225,430,118
+EDU-Special Education Teachers,1611,168,0,0,0,0,0,0,108,0,0,0,60,0,0,1443,0,0,0,0,75,424,562,0,0,211,0,57,114
+EDU-Tutors,2281,217,0,53,0,0,0,0,164,0,0,0,0,0,0,2064,118,285,287,473,109,161,152,401,78,0,0,0,0
+EDU-Other Teachers and Instructors,3613,1727,188,45,172,394,0,92,332,0,166,85,0,0,253,1886,187,0,759,411,0,132,128,0,73,63,133,0,0
+"EDU-Archivists, Curators, And Museum Technicians",245,0,0,0,0,0,0,0,0,0,0,0,0,0,0,245,0,0,0,116,0,0,0,0,129,0,0,0,0
+EDU-Librarians And Media Collections Specialists,2076,129,0,0,0,0,0,0,0,56,73,0,0,0,0,1947,563,943,0,0,0,0,0,0,145,132,164,0,0
+EDU-Library Technicians,300,0,0,0,0,0,0,0,0,0,0,0,0,0,0,300,0,0,0,0,0,0,153,0,81,0,66,0,0
+EDU-Teaching Assistants,13422,4313,208,556,803,912,510,263,37,427,152,261,26,158,0,9109,520,693,1187,1087,815,949,915,687,516,277,936,220,307
+EDU-Other Educational Instruction and Library Workers,544,265,0,0,72,76,0,117,0,0,0,0,0,0,0,279,0,0,0,165,0,0,114,0,0,0,0,0,0
+ENT-Artists And Related Workers,1369,473,0,0,0,0,0,52,0,0,421,0,0,0,0,896,0,0,236,0,226,0,0,72,0,266,96,0,0
+ENT-Commercial And Industrial Designers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Fashion Designers,331,0,0,0,0,0,0,0,0,0,0,0,0,0,0,331,0,0,0,0,0,0,0,0,0,0,331,0,0
+ENT-Floral Designers,86,86,86,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Graphic Designers,306,0,0,0,0,0,0,0,0,0,0,0,0,0,0,306,0,0,0,0,0,0,0,0,0,0,0,246,60
+ENT-Interior Designers,132,0,0,0,0,0,0,0,0,0,0,0,0,0,0,132,0,0,0,0,0,0,0,0,0,0,0,0,132
+ENT-Merchandise Displayers And Window Trimmers,193,0,0,0,0,0,0,0,0,0,0,0,0,0,0,193,0,193,0,0,0,0,0,0,0,0,0,0,0
+ENT-Other Designers,998,573,0,0,0,0,80,0,106,271,0,116,0,0,0,425,0,0,0,0,0,0,286,0,139,0,0,0,0
+ENT-Actors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Producers And Directors,1259,221,0,0,0,0,0,0,0,98,0,0,0,123,0,1038,153,271,0,0,0,334,77,0,0,0,0,51,152
+ENT-Athletes and Sports Competitors,118,118,0,0,0,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Coaches and Scouts,3327,1281,78,99,73,0,21,0,773,183,0,0,0,0,54,2046,0,28,873,479,53,484,66,0,0,0,0,0,63
+"ENT-Umpires, Referees, And Other Sports Officials",360,360,0,0,0,0,0,0,154,0,0,0,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Dancers And Choreographers,222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,222,0,88,0,0,0,0,0,0,0,0,134,0,0
+ENT-Music Directors and Composers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Musicians and Singers,623,623,0,0,0,0,0,0,0,0,0,0,0,0,623,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ENT-Disc Jockeys, Except Radio",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ENT-Entertainers And Performers, Sports and Related Workers, All Other",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Broadcast Announcers And Radio Disc Jockeys,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ENT-News Analysts, Reporters, And Journalists",41,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,0,41,0,0,0,0,0,0,0,0,0,0
+ENT-Public Relations Specialists,395,0,0,0,0,0,0,0,0,0,0,0,0,0,0,395,0,0,0,0,0,257,0,138,0,0,0,0,0
+ENT-Editors,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,0,168,0
+ENT-Technical Writers,174,174,0,0,0,0,0,0,0,0,0,174,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Writers And Authors,1272,208,0,0,0,0,0,82,126,0,0,0,0,0,0,1064,0,0,195,22,110,355,149,0,107,126,0,0,0
+ENT-Interpreters and Translators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Court Reporters and Simultaneous Captioners,139,139,0,0,0,0,0,0,0,139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"ENT-Media And Communication Workers, All Other",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ENT-Other Media And Communication Equipment Workers,323,239,0,0,0,0,39,0,0,0,106,0,57,0,37,84,0,0,0,0,84,0,0,0,0,0,0,0,0
+ENT-Photographers,792,104,0,0,0,0,0,0,0,0,41,63,0,0,0,688,0,0,0,0,0,373,0,0,0,0,0,164,151
+"ENT-Television, Video, And Film Camera Operators And Editors",1265,967,0,0,0,0,89,0,88,76,90,129,331,0,164,298,0,0,86,0,0,0,212,0,0,0,0,0,0
+MED-Chiropractors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Dentists,131,76,0,0,0,0,0,0,0,0,0,76,0,0,0,55,0,0,0,0,0,0,0,0,0,0,0,55,0
+MED-Dietitians And Nutritionists,308,163,0,0,93,0,70,0,0,0,0,0,0,0,0,145,0,0,0,0,0,0,0,0,145,0,0,0,0
+MED-Optometrists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Pharmacists,1053,685,0,0,0,0,0,0,117,64,0,0,226,0,278,368,0,0,0,0,0,0,0,142,0,188,38,0,0
+MED-Physicians,934,531,0,0,0,0,0,0,0,0,0,65,0,145,321,403,0,0,0,0,0,0,72,0,43,0,74,121,93
+MED-Surgeons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Physician Assistants,840,125,0,0,0,0,0,0,0,0,125,0,0,0,0,715,0,0,0,0,0,0,0,0,84,0,0,585,46
+MED-Podiatrists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Audiologists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Occupational Therapists,480,0,0,0,0,0,0,0,0,0,0,0,0,0,0,480,0,0,72,0,0,0,67,0,52,144,145,0,0
+MED-Physical Therapists,823,304,0,0,0,0,0,0,0,0,0,0,188,116,0,519,0,0,0,0,0,84,0,0,0,0,134,208,93
+MED-Radiation Therapists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Recreational Therapists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Respiratory Therapists,131,30,0,0,0,0,0,0,0,30,0,0,0,0,0,101,0,0,0,0,0,0,0,0,0,0,0,0,101
+MED-Speech-Language Pathologists,565,0,0,0,0,0,0,0,0,0,0,0,0,0,0,565,0,0,0,0,0,381,0,86,0,0,0,0,98
+MED-Other Therapists,2787,244,0,0,0,0,0,0,0,0,0,0,0,56,188,2543,0,0,0,0,966,246,0,0,50,1030,106,88,57
+MED-Veterinarians,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Registered Nurses,9124,1418,0,0,0,71,161,0,421,434,136,50,56,23,66,7706,0,0,231,40,343,234,1570,537,1249,965,877,942,718
+MED-Nurse Anesthetists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MED-Nurse Practitioners, And Nurse Midwives",1042,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1042,0,0,0,0,0,0,0,572,154,0,0,103,213
+MED-Acupuncturists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"MED-Healthcare Diagnosing Or Treating Practitioners, All Other",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Clinical Laboratory Technologists And Technicians,1329,281,0,0,0,213,35,33,0,0,0,0,0,0,0,1048,0,0,63,71,128,252,0,0,92,112,274,0,56
+MED-Dental Hygienists,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,497,0,0,0,0,0,0,0,46,100,71,48,179,53
+MED-Cardiovascular Technologists and Technicians,94,47,0,0,0,0,0,0,0,47,0,0,0,0,0,47,0,0,0,0,0,0,0,0,0,47,0,0,0
+MED-Diagnostic Medical Sonographers,36,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,0,0,0,36,0,0,0,0,0
+MED-Radiologic Technologists And Technicians,118,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,0,0,0,0,0,0,0,67,0,51,0,0,0
+MED-Magnetic Resonance Imaging Technologists,129,0,0,0,0,0,0,0,0,0,0,0,0,0,0,129,0,0,0,0,0,0,67,62,0,0,0,0,0
+MED-Nuclear Medicine Technologists and Medical Dosimetrists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Emergency Medical Technicians,1415,909,344,174,0,0,43,0,0,0,103,144,101,0,0,506,0,192,0,0,0,0,0,134,0,0,60,120,0
+MED-Paramedics,443,398,0,0,0,0,0,0,80,0,205,0,0,0,113,45,0,0,0,0,0,0,0,0,0,0,0,0,45
+MED-Pharmacy Technicians,2138,643,0,0,0,0,244,0,199,157,0,0,43,0,0,1495,0,179,0,194,34,379,0,95,0,413,201,0,0
+MED-Psychiatric Technicians,731,93,0,0,0,0,0,93,0,0,0,0,0,0,0,638,0,0,0,0,481,0,0,77,0,0,46,34,0
+MED-Surgical Technologists,59,59,0,0,0,0,0,0,0,0,0,0,0,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Veterinary Technologists and Technicians,1905,113,0,0,0,0,0,0,0,113,0,0,0,0,0,1792,186,0,272,0,0,0,338,267,64,157,241,63,204
+MED-Dietetic Technicians And Ophthalmic Medical Technicians,89,89,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Licensed Practical And Licensed Vocational Nurses,1319,569,0,0,0,0,0,478,0,0,0,0,0,91,0,750,0,0,242,98,82,0,0,0,233,64,0,0,31
+MED-Medical Records Specialists,377,0,0,0,0,0,0,0,0,0,0,0,0,0,0,377,0,0,0,0,0,0,0,69,0,0,59,249,0
+"MED-Opticians, Dispensing",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MED-Miscellaneous Health Technologists and Technicians,456,366,0,260,0,0,0,0,0,0,106,0,0,0,0,90,0,0,0,0,0,90,0,0,0,0,0,0,0
+MED-Other Healthcare Practitioners and Technical Occupations,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,0,0,41,0,32,0,0
+HLS-Home Health Aides,639,200,0,0,200,0,0,0,0,0,0,0,0,0,0,439,0,0,0,0,0,0,0,0,171,0,125,143,0
+HLS-Personal Care Aides,4537,658,0,0,0,0,0,0,504,100,0,0,0,0,54,3879,0,0,378,528,51,408,427,241,1046,267,172,361,0
+HLS-Nursing Assistants,4211,416,32,96,0,0,0,0,0,81,0,0,0,207,0,3795,91,0,0,349,316,0,636,0,689,307,0,938,469
+HLS-Orderlies and Psychiatric Aides,627,627,0,0,0,0,51,412,0,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HLS-Occupational Therapy Assistants And Aides,763,0,0,0,0,0,0,0,0,0,0,0,0,0,0,763,0,0,0,220,80,94,0,0,0,0,369,0,0
+HLS-Physical Therapist Assistants And Aides,571,0,0,0,0,0,0,0,0,0,0,0,0,0,0,571,128,159,105,0,0,0,93,36,0,0,0,0,50
+HLS-Massage Therapists,227,82,0,0,0,0,0,0,0,0,82,0,0,0,0,145,0,0,0,0,0,0,0,0,0,0,0,0,145
+HLS-Dental Assistants,548,95,0,0,0,0,0,0,0,95,0,0,0,0,0,453,0,0,0,0,0,0,0,0,165,0,189,0,99
+HLS-Medical Assistants,4802,390,0,0,0,0,0,44,164,0,0,182,0,0,0,4412,0,0,0,521,584,309,110,662,584,546,311,435,350
+HLS-Medical Transcriptionists,89,89,0,0,0,0,0,0,0,0,89,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HLS-Pharmacy Aides,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+HLS-Veterinary Assistants And Laboratory Animal Caretakers,196,0,0,0,0,0,0,0,0,0,0,0,0,0,0,196,0,0,0,34,0,0,162,0,0,0,0,0,0
+HLS-Phlebotomists,303,68,0,0,0,0,0,0,0,0,0,68,0,0,0,235,0,0,0,0,0,47,0,127,0,0,0,0,61
+HLS-Other Healthcare Support Workers,908,426,0,0,0,86,0,0,0,70,104,28,138,0,0,482,0,0,0,0,0,0,0,62,75,0,125,69,151
+PRT-First-Line Supervisors Of Correctional Officers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-First-Line Supervisors Of Police And Detectives,197,197,0,0,197,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-First-Line Supervisors Of Firefighting And Prevention Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRT-Miscellaneous First-Line Supervisors, Protective Service Workers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Firefighters,119,119,0,0,0,0,0,0,0,0,0,0,0,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Fire Inspectors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Bailiffs,257,257,0,0,0,0,0,0,0,257,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Correctional Officers and Jailers,854,766,0,0,0,0,0,0,240,0,110,259,0,157,0,88,0,0,0,0,0,0,0,0,0,0,88,0,0
+PRT-Detectives And Criminal Investigators,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,57,0,0,0,0,0
+PRT-Fish And Game Wardens And Parking Enforcement Officers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Police Officers,1227,919,0,0,0,0,0,0,117,99,79,427,53,78,66,308,0,0,0,0,0,0,0,0,0,0,218,0,90
+PRT-Animal Control Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Private Detectives And Investigators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Security Guards And Gambling Surveillance Officers,3273,2963,227,0,0,0,0,268,348,249,36,190,917,207,521,310,0,0,310,0,0,0,0,0,0,0,0,0,0
+PRT-Crossing Guards And Flaggers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-Transportation Security Screeners,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRT-School Bus Monitors,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,152,0,0,0,0,0,0,0,0,152,0,0,0,0
+PRT-Other Protective Service Workers,4882,1281,686,312,222,61,0,0,0,0,0,0,0,0,0,3601,1695,1339,567,0,0,0,0,0,0,0,0,0,0
+EAT-Chefs And Head Cooks,583,523,7,0,0,0,0,232,67,141,0,32,0,0,44,60,0,0,0,0,0,0,0,0,0,0,0,0,60
+EAT-First-Line Supervisors Of Food Preparation And Serving Workers,3465,2608,493,278,162,0,186,0,0,0,579,0,186,524,200,857,0,0,108,68,33,0,0,0,0,128,64,0,456
+EAT-Cooks,9646,6737,782,1180,731,46,266,21,397,409,536,892,521,271,685,2909,218,455,780,212,169,56,270,273,476,0,0,0,0
+EAT-Food Preparation Workers,5350,2525,400,340,262,407,171,116,190,79,161,0,184,0,215,2825,587,1525,0,0,119,264,330,0,0,0,0,0,0
+EAT-Bartenders,3612,723,0,0,0,104,0,177,325,0,101,0,16,0,0,2889,0,0,401,513,169,0,132,1019,0,218,48,389,0
+EAT-Fast Food And Counter Workers,8153,2614,677,907,233,0,104,448,245,0,0,0,0,0,0,5539,906,1432,444,672,1048,326,19,86,43,0,0,356,207
+EAT-Waiters And Waitresses,15059,6283,1490,925,789,445,805,540,365,232,123,195,300,0,74,8776,1187,526,2021,1251,905,744,440,504,486,349,116,83,164
+"EAT-Food Servers, Nonrestaurant",1188,550,37,111,169,233,0,0,0,0,0,0,0,0,0,638,185,322,0,0,0,0,131,0,0,0,0,0,0
+EAT-Dining Room And Cafeteria Attendants And Bartender Helpers,2097,1940,308,785,99,114,43,236,90,0,0,87,0,0,178,157,0,0,0,157,0,0,0,0,0,0,0,0,0
+EAT-Dishwashers,2385,2385,622,425,84,0,64,0,0,693,0,0,497,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EAT-Hosts And Hostesses, Restaurant, Lounge, And Coffee Shop",2252,364,0,209,0,122,0,0,33,0,0,0,0,0,0,1888,141,1032,195,464,0,0,0,0,0,0,0,0,56
+"EAT-Food Preparation and Serving Related Workers, All Other",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CLN-First-Line Supervisors Of Housekeeping And Janitorial Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CLN-First-Line Supervisors Of Landscaping, Lawn Service, And Groundskeeping Workers",314,314,0,0,0,0,0,0,0,118,133,0,0,0,63,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CLN-Janitors And Building Cleaners,8057,5962,351,307,46,480,853,638,333,182,559,371,1121,210,511,2095,0,319,0,0,0,301,471,0,145,462,397,0,0
+CLN-Maids And Housekeeping Cleaners,2162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2162,0,0,0,0,211,0,231,0,481,280,646,0,313
+CLN-Pest Control Workers,239,0,0,0,0,0,0,0,0,0,0,0,0,0,0,239,0,0,0,0,0,0,0,61,0,0,178,0,0
+CLN-Landscaping And Groundskeeping Workers,4768,4542,71,448,201,522,113,36,42,163,138,311,1060,1020,417,226,0,0,0,98,0,0,0,0,128,0,0,0,0
+CLN-Tree Trimmers and Pruners,1051,1051,0,152,0,0,75,0,228,0,236,0,266,94,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CLN-Other Grounds Maintenance Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRS-Supervisors Of Personal Care And Service Workers,402,402,0,0,0,0,0,0,0,0,0,0,201,201,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRS-Animal Trainers,664,0,0,0,0,0,0,0,0,0,0,0,0,0,0,664,0,494,58,0,0,0,0,0,0,79,0,0,33
+PRS-Animal Caretakers,2215,250,0,0,0,0,151,0,99,0,0,0,0,0,0,1965,0,32,596,639,185,0,0,140,0,0,0,373,0
+PRS-Gambling Services Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRS-Ushers, Lobby Attendants, And Ticket Takers",1518,515,297,0,0,75,74,0,0,0,69,0,0,0,0,1003,281,50,247,425,0,0,0,0,0,0,0,0,0
+PRS-Other Entertainment Attendants And Related Workers,3175,1069,611,0,0,0,360,61,37,0,0,0,0,0,0,2106,141,552,370,177,196,670,0,0,0,0,0,0,0
+"PRS-Embalmers, Crematory Operators And Funeral Attendants",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRS-Morticians, Undertakers, And Funeral Arrangers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRS-Barbers,711,711,0,0,0,0,308,0,0,0,403,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRS-Hairdressers, Hairstylists, And Cosmetologists",2849,135,73,0,0,0,0,0,0,0,0,62,0,0,0,2714,0,230,57,0,0,0,170,284,398,623,52,606,294
+PRS-Manicurists And Pedicurists,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,72,0,0
+PRS-Skincare Specialists,272,0,0,0,0,0,0,0,0,0,0,0,0,0,0,272,0,0,0,0,0,0,0,73,0,0,0,0,199
+PRS-Other Personal Appearance Workers,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,81,0
+"PRS-Baggage Porters, Bellhops, And Concierges",307,307,0,0,0,155,0,0,152,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRS-Tour And Travel Guides,28,28,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRS-Childcare Workers,8752,1081,0,61,0,0,202,0,430,388,0,0,0,0,0,7671,1875,1697,512,332,713,857,602,389,99,68,198,167,162
+PRS-Exercise Trainers And Group Fitness Instructors,1723,1196,0,482,0,0,0,0,0,273,0,46,70,196,129,527,0,0,0,0,183,253,0,0,0,91,0,0,0
+PRS-Recreation Workers,5393,3270,639,364,917,1058,105,0,0,141,0,0,0,0,46,2123,722,986,211,0,127,0,0,0,0,0,77,0,0
+PRS-Residential Advisors,1157,804,0,0,343,160,43,258,0,0,0,0,0,0,0,353,0,0,231,0,122,0,0,0,0,0,0,0,0
+"PRS-Personal Care and Service Workers, All Other",1078,61,0,0,0,0,0,0,0,61,0,0,0,0,0,1017,0,0,0,352,0,0,0,0,284,0,175,74,132
+SAL-First-Line Supervisors Of Retail Sales Workers,8096,3533,253,0,41,0,32,378,103,352,236,371,651,385,731,4563,197,90,390,337,523,314,56,173,298,716,167,146,1156
+SAL-First-Line Supervisors Of Non-Retail Sales Workers,1470,691,0,0,0,51,101,104,92,0,72,0,0,0,271,779,0,0,0,0,213,0,0,0,0,0,176,222,168
+SAL-Cashiers,27262,9994,2562,2348,1324,916,192,336,404,0,358,280,236,161,877,17268,3604,4071,1110,1851,1631,1440,1064,539,115,615,234,933,61
+SAL-Counter And Rental Clerks,536,435,0,316,0,0,0,0,0,0,0,119,0,0,0,101,0,0,0,0,0,0,101,0,0,0,0,0,0
+SAL-Parts Salespersons,295,295,0,0,0,0,0,0,0,0,0,133,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SAL-Retail Salespersons,19358,10905,500,724,734,1544,1704,1475,426,1060,685,429,298,509,817,8453,870,1236,668,962,731,1220,656,286,507,638,360,126,193
+SAL-Advertising Sales Agents,1238,428,0,0,0,0,0,0,0,428,0,0,0,0,0,810,0,0,99,0,0,112,480,119,0,0,0,0,0
+SAL-Insurance Sales Agents,1523,1298,0,0,0,0,53,216,146,216,0,52,222,393,0,225,0,0,0,0,0,0,0,0,0,99,126,0,0
+"SAL-Securities, Commodities, And Financial Services Sales Agents",793,666,0,0,0,0,0,0,87,164,147,0,268,0,0,127,0,0,0,0,127,0,0,0,0,0,0,0,0
+SAL-Travel Agents,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SAL-Sales Representatives Of Services, Except Advertising, Insurance, Financial Services, And Travel",1201,401,0,0,13,0,0,0,261,127,0,0,0,0,0,800,0,0,0,0,0,0,504,0,0,266,30,0,0
+"SAL-Sales Representatives, Wholesale And Manufacturing",1352,899,207,0,0,0,0,0,232,59,0,185,59,46,111,453,0,0,0,0,0,0,0,0,49,221,0,0,183
+"SAL-Models, Demonstrators, And Product Promoters",704,226,0,0,0,142,0,84,0,0,0,0,0,0,0,478,0,0,405,73,0,0,0,0,0,0,0,0,0
+SAL-Real Estate Brokers And Sales Agents,636,32,0,0,0,0,0,0,0,0,0,0,0,32,0,604,0,0,0,0,0,0,0,430,0,0,0,0,174
+SAL-Sales Engineers,295,295,0,0,0,0,0,0,133,162,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+SAL-Telemarketers,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,0,0,0,0,0,0,73,0,0,0,0,0,0
+"SAL-Door-To-Door Sales Workers, News And Street Vendors, And Related Workers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"SAL-Sales And Related Workers, All Other",1528,626,0,98,0,0,0,0,0,123,0,78,262,65,0,902,0,100,207,0,0,191,0,36,48,183,68,69,0
+OFF-First-Line Supervisors Of Office And Administrative Support Workers,1388,845,0,0,0,0,279,0,0,0,443,0,0,123,0,543,0,0,0,0,0,0,0,36,64,0,0,443,0
+"OFF-Switchboard Operators, Including Answering Service",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Telephone Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OFF-Communications Equipment Operators, All Other",8,8,0,0,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Bill And Account Collectors,58,58,0,0,0,0,0,0,0,0,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Billing And Posting Clerks,669,0,0,0,0,0,0,0,0,0,0,0,0,0,0,669,0,0,0,0,0,0,0,0,96,0,310,263,0
+"OFF-Bookkeeping, Accounting, And Auditing Clerks",1461,846,0,318,0,0,0,132,396,0,0,0,0,0,0,615,0,0,0,0,0,48,242,68,0,72,120,0,65
+OFF-Payroll And Timekeeping Clerks,45,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,0,0,0,45,0,0,0,0,0
+OFF-Procurement Clerks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Tellers,851,0,0,0,0,0,0,0,0,0,0,0,0,0,0,851,0,0,330,0,0,234,0,0,154,133,0,0,0
+OFF-Other Financial Clerks,219,0,0,0,0,0,0,0,0,0,0,0,0,0,0,219,0,0,130,0,0,0,89,0,0,0,0,0,0
+"OFF-Court, Municipal, And License Clerks",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OFF-Credit Authorizers, Checkers, And Clerks",188,188,0,0,0,0,0,0,0,0,0,0,188,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Customer Service Representatives,10268,2727,392,167,145,339,191,74,248,285,574,119,0,84,109,7541,424,1633,335,292,461,1311,493,301,99,635,936,315,306
+"OFF-Eligibility Interviewers, Government Programs",57,57,0,0,0,0,0,0,0,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-File Clerks,412,159,0,0,0,0,101,0,0,58,0,0,0,0,0,253,0,0,0,0,253,0,0,0,0,0,0,0,0
+"OFF-Hotel, Motel, And Resort Desk Clerks",1106,88,0,0,0,75,0,0,13,0,0,0,0,0,0,1018,0,0,192,283,117,0,123,0,168,0,0,135,0
+"OFF-Interviewers, Except Eligibility And Loan",571,140,0,0,0,0,55,0,0,0,85,0,0,0,0,431,0,0,192,109,130,0,0,0,0,0,0,0,0
+"OFF-Library Assistants, Clerical",1345,198,0,0,0,0,0,0,0,0,0,0,0,198,0,1147,0,321,414,131,0,0,0,0,162,0,0,119,0
+OFF-Loan Interviewers And Clerks,296,180,0,0,0,0,89,0,0,0,91,0,0,0,0,116,0,0,0,0,0,0,0,0,0,0,0,0,116
+OFF-New Accounts Clerks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Correspondence Clerks And Order Clerks,72,72,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OFF-Human Resources Assistants, Except Payroll And Timekeeping",625,117,0,0,0,0,0,0,0,0,0,0,0,0,117,508,0,0,0,119,321,68,0,0,0,0,0,0,0
+OFF-Receptionists And Information Clerks,10734,4742,581,506,1130,650,690,489,635,0,0,0,61,0,0,5992,255,682,831,853,739,430,497,345,612,531,28,189,0
+OFF-Reservation And Transportation Ticket Agents And Travel Clerks,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Other Information And Records Clerks,250,0,0,0,0,0,0,0,0,0,0,0,0,0,0,250,0,0,0,0,0,0,0,0,0,0,250,0,0
+OFF-Cargo And Freight Agents,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Couriers And Messengers,4546,3831,178,39,896,278,111,686,370,68,206,442,327,78,152,715,266,0,0,0,0,0,0,47,130,219,0,0,53
+OFF-Public Safety Telecommunicators,435,309,0,0,0,0,50,89,92,0,0,78,0,0,0,126,0,126,0,0,0,0,0,0,0,0,0,0,0
+"OFF-Dispatchers, Except Police, Fire, And Ambulance",269,160,0,0,160,0,0,0,0,0,0,0,0,0,0,109,0,0,0,0,0,0,0,0,0,0,0,109,0
+"OFF-Meter Readers, Utilities",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Postal Service Clerks,732,443,0,0,0,0,0,0,294,0,0,0,149,0,0,289,0,0,0,0,0,0,0,0,131,158,0,0,0
+OFF-Postal Service Mail Carriers,852,625,0,0,0,0,0,0,54,41,181,132,99,29,89,227,0,0,0,0,0,0,0,56,51,120,0,0,0
+"OFF-Postal Service Mail Sorters, Processors, And Processing Machine Operators",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OFF-Production, Planning, And Expediting Clerks",1550,1038,0,166,0,0,0,0,176,242,0,0,72,0,382,512,0,0,61,108,268,0,0,0,0,0,0,0,75
+"OFF-Shipping, Receiving, And Inventory Clerks",950,877,119,187,0,0,0,125,32,74,0,66,222,52,0,73,0,0,0,0,0,0,0,0,0,0,73,0,0
+"OFF-Weighers, Measurers, Checkers, And Samplers, Recordkeeping",374,0,0,0,0,0,0,0,0,0,0,0,0,0,0,374,0,0,0,0,0,0,0,0,0,176,198,0,0
+OFF-Executive Secretaries And Executive Administrative Assistants,468,0,0,0,0,0,0,0,0,0,0,0,0,0,0,468,0,0,0,0,0,0,0,0,0,0,206,79,183
+OFF-Legal Secretaries and Administrative Assistants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Medical Secretaries and Administrative Assistants,177,177,0,0,0,0,0,0,0,0,55,122,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"OFF-Secretaries And Administrative Assistants, Except Legal, Medical, And Executive",4095,392,110,0,102,0,0,0,0,66,23,0,91,0,0,3703,0,0,371,240,119,1103,0,143,382,430,60,123,732
+OFF-Data Entry Keyers,469,111,0,0,77,0,0,34,0,0,0,0,0,0,0,358,0,0,0,0,64,150,86,58,0,0,0,0,0
+OFF-Word Processors And Typists,379,379,0,0,0,0,0,297,82,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Insurance Claims And Policy Processing Clerks,406,80,0,0,0,0,0,0,0,80,0,0,0,0,0,326,0,0,0,0,0,0,0,0,278,0,0,0,48
+"OFF-Mail Clerks And Mail Machine Operators, Except Postal Service",975,677,0,316,197,0,0,0,72,0,0,92,0,0,0,298,0,0,0,0,298,0,0,0,0,0,0,0,0
+"OFF-Office Clerks, General",6674,2854,296,451,105,314,61,60,209,0,560,386,224,148,40,3820,0,42,405,492,356,291,133,728,104,62,115,690,402
+"OFF-Office Machine Operators, Except Computer",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Proofreaders And Copy Markers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Statistical Assistants,73,73,0,0,73,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+OFF-Other Office And Administrative Support Workers,605,340,0,0,0,0,0,0,0,0,117,111,112,0,0,265,0,0,0,0,0,0,0,73,93,0,0,52,47
+"FFF-First-Line Supervisors Of Farming, Fishing, And Forestry Workers",165,0,0,0,0,0,0,0,0,0,0,0,0,0,0,165,0,0,165,0,0,0,0,0,0,0,0,0,0
+FFF-Agricultural Inspectors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"FFF-Graders And Sorters, Agricultural Products",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FFF-Other Agricultural Workers,985,441,119,8,59,0,0,0,0,0,255,0,0,0,0,544,22,209,208,0,0,0,0,0,0,0,0,0,105
+FFF-Fishing And Hunting Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FFF-Forest And Conservation Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+FFF-Logging Workers,12,12,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-First-Line Supervisors Of Construction Trades And Extraction Workers,1336,1336,0,0,0,0,0,0,0,500,244,415,0,177,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Boilermakers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CON-Brickmasons, Blockmasons, Stonemasons, And Reinforcing Iron And Rebar Workers",448,448,0,0,0,0,0,284,0,0,0,0,0,164,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Carpenters,3612,3092,12,514,83,79,164,285,0,446,145,674,46,301,343,520,0,0,316,0,137,0,0,0,0,0,0,0,67
+"CON-Carpet, Floor, And Tile Installers And Finishers",294,294,0,0,0,0,0,0,0,0,0,0,0,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CON-Cement Masons, Concrete Finishers, And Terrazzo Workers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Construction Laborers,5214,5214,505,178,96,531,378,1487,539,785,166,122,247,0,180,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Construction Equipment Operators,224,224,0,0,90,0,0,29,0,0,0,41,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CON-Drywall Installers, Ceiling Tile Installers, And Tapers",198,198,0,198,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Electricians,2388,1976,0,0,150,224,0,122,187,334,62,62,181,193,461,412,0,173,0,141,98,0,0,0,0,0,0,0,0
+CON-Glaziers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Insulation Workers,150,150,0,86,0,0,0,0,0,0,0,0,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Painters and Paperhangers,839,839,0,0,0,100,167,193,0,62,0,0,0,0,317,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Pipelayers,62,62,0,0,0,0,0,0,0,0,0,0,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CON-Plumbers, Pipefitters, And Steamfitters",2233,2233,365,0,0,0,78,320,0,108,285,126,58,473,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Plasterers And Stucco Masons,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Roofers,65,65,0,0,65,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Sheet Metal Workers,40,40,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Structural Iron And Steel Workers,424,424,0,0,0,0,0,0,0,0,144,280,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Solar Photovoltaic Installers,510,510,0,0,0,206,116,0,0,0,0,0,57,0,131,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"CON-Helpers, Construction Trades",702,702,0,0,0,0,0,0,643,0,59,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Construction And Building Inspectors,72,72,0,0,0,0,0,0,0,0,0,72,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Elevator And Escalator Installers And Repairers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Fence Erectors,206,206,0,0,0,0,0,0,0,0,0,0,206,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Hazardous Materials Removal Workers,88,88,0,0,0,0,0,0,88,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Highway Maintenance Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Rail-Track Laying And Maintenance Equipment Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+CON-Other Construction And Related Workers,134,134,0,0,134,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EXT-Derrick, Rotary Drill, And Service Unit Operators, And Roustabouts, Oil And Gas",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXT-Surface Mining Machine Operators And Earth Drillers,80,80,0,0,0,0,0,0,0,0,0,0,80,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"EXT-Explosives Workers, Ordnance Handling Experts, and Blasters",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXT-Underground Mining Machine Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EXT-Other Extraction Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-First-Line Supervisors Of Mechanics, Installers, And Repairers",679,679,0,0,0,0,0,0,0,0,679,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Computer, Automated Teller, And Office Machine Repairers",86,86,0,0,0,0,46,0,0,0,0,0,0,0,40,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Radio And Telecommunications Equipment Installers And Repairers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Avionics Technicians,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Electric Motor, Power Tool, And Related Repairers",723,723,0,0,0,0,0,0,0,597,0,0,0,126,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Other Electrical And Electronic Equipment Mechanics, Installers, And Repairers",9,9,0,0,0,0,0,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Audiovisual Equipment Installers And Repairers,119,119,0,0,0,0,0,0,0,0,0,119,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Security And Fire Alarm Systems Installers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Aircraft Mechanics And Service Technicians,130,130,0,0,0,0,0,0,0,60,0,0,0,70,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Automotive Body And Related Repairers,764,764,0,0,0,0,398,214,0,0,0,0,84,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Automotive Glass Installers And Repairers,401,401,0,0,0,29,0,167,205,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Automotive Service Technicians And Mechanics,2468,2468,0,380,0,320,298,246,389,233,368,0,123,70,41,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Bus And Truck Mechanics And Diesel Engine Specialists,316,316,0,0,0,0,0,75,0,0,0,0,134,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Heavy Vehicle And Mobile Equipment Service Technicians And Mechanics,202,202,0,0,0,121,0,0,0,0,0,0,81,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Small Engine Mechanics,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Miscellaneous Vehicle And Mobile Equipment Mechanics, Installers, And Repairers",44,44,0,0,0,0,0,0,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Control And Valve Installers And Repairers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Heating, Air Conditioning, And Refrigeration Mechanics And Installers",2594,2594,0,48,13,145,331,908,371,85,180,91,276,88,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Home Appliance Repairers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Industrial And Refractory Machinery Mechanics,351,351,0,0,0,0,0,0,351,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Maintenance And Repair Workers, General",1177,979,0,0,0,205,248,0,0,0,0,61,90,98,277,198,0,0,0,0,0,0,62,0,0,136,0,0,0
+"RPR-Maintenance Workers, Machinery",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Millwrights,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Electrical Power-Line Installers And Repairers,294,294,0,0,0,0,0,0,0,0,0,0,294,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Telecommunications Line Installers And Repairers,269,269,0,0,0,0,128,0,0,0,141,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Precision Instrument And Equipment Repairers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Coin, Vending, And Amusement Machine Servicers And Repairers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Locksmiths And Safe Repairers,143,143,0,0,0,0,0,0,143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPR-Riggers,58,58,0,58,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Helpers--Installation, Maintenance, And Repair Workers",68,68,0,0,0,0,0,0,0,0,68,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"RPR-Other Installation, Maintenance, And Repair Workers",622,622,55,0,0,0,231,0,0,0,258,43,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-First-Line Supervisors Of Production And Operating Workers,441,210,0,0,83,0,0,0,0,0,0,0,0,54,73,231,0,0,0,0,0,0,0,231,0,0,0,0,0
+"PRD-Electrical, Electronics, And Electromechanical Assemblers",130,63,0,0,0,0,0,0,0,0,0,0,0,0,63,67,0,0,0,0,0,0,0,0,0,0,0,0,67
+PRD-Engine And Other Machine Assemblers,43,43,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Structural Metal Fabricators And Fitters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Other Assemblers And Fabricators,3002,2557,0,88,0,0,171,323,194,458,332,51,0,499,441,445,0,109,0,0,73,0,0,0,174,0,0,89,0
+PRD-Bakers,1433,354,13,90,0,0,28,0,0,0,170,0,0,53,0,1079,0,0,228,0,0,0,80,151,162,0,365,0,93
+"PRD-Butchers And Other Meat, Poultry, And Fish Processing Workers",737,737,0,247,58,0,0,36,0,293,103,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Food And Tobacco Roasting, Baking, And Drying Machine Operators And Tenders",98,98,98,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Food Batchmakers,169,0,0,0,0,0,0,0,0,0,0,0,0,0,0,169,0,0,169,0,0,0,0,0,0,0,0,0,0
+PRD-Food Cooking Machine Operators And Tenders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Food Processing Workers, All Other",42,42,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Computer Numerically Controlled Tool Operators And Programmers,969,969,0,0,0,136,73,0,0,0,291,301,129,0,39,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Forming Machine Setters, Operators, And Tenders, Metal And Plastic",513,393,0,0,0,0,0,0,0,0,0,128,265,0,0,120,0,0,0,0,0,120,0,0,0,0,0,0,0
+"PRD-Cutting, Punching, And Press Machine Setters, Operators, And Tenders, Metal And Plastic",133,133,0,0,0,69,64,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Grinding, Lapping, Polishing, And Buffing Machine Tool Setters, Operators, And Tenders, Metal And Plastic",57,57,0,0,0,0,0,57,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Other Machine Tool Setters, Operators, And Tenders, Metal and Plastic",121,121,0,0,0,0,0,0,0,0,0,121,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Machinists,1528,1357,102,75,0,0,217,0,192,0,103,38,0,71,559,171,0,0,0,0,0,0,0,0,0,171,0,0,0
+"PRD-Metal Furnace Operators, Tenders, Pourers, And Casters",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Model Makers, Patternmakers, And Molding Machine Setters, Metal And Plastic",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Tool And Die Makers,713,713,0,0,0,0,0,0,0,0,106,143,103,361,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Welding, Soldering, And Brazing Workers",912,912,0,0,0,0,0,117,0,140,74,0,25,556,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Other Metal Workers And Plastic Workers,278,278,0,128,0,6,0,0,0,0,0,0,0,144,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Prepress Technicians And Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Printing Press Operators,945,822,0,423,0,0,0,0,104,0,0,0,295,0,0,123,0,0,0,0,0,123,0,0,0,0,0,0,0
+PRD-Print Binding And Finishing Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Laundry And Dry-Cleaning Workers,320,122,0,0,0,122,0,0,0,0,0,0,0,0,0,198,0,198,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Pressers, Textile, Garment, And Related Materials",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Sewing Machine Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Shoe And Leather Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Tailors, Dressmakers, And Sewers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Textile Machine Setters, Operators, And Tenders",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Upholsterers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Other Textile, Apparel, And Furnishings Workers",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Cabinetmakers And Bench Carpenters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Furniture Finishers,168,168,0,0,0,0,0,0,0,0,168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Sawing Machine Setters, Operators, And Tenders, Wood",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Woodworking Machine Setters, Operators, And Tenders, Except Sawing",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Other Woodworkers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Power Plant Operators, Distributors, And Dispatchers",201,201,0,0,0,0,0,0,0,0,0,0,94,0,107,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Stationary Engineers And Boiler Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Water And Wastewater Treatment Plant And System Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Miscellaneous Plant And System Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Chemical Processing Machine Setters, Operators, And Tenders",283,283,0,0,212,0,0,0,0,0,71,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Crushing, Grinding, Polishing, Mixing, And Blending Workers",318,318,0,0,0,0,0,0,0,0,0,0,0,0,318,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Cutting Workers,217,217,0,217,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Extruding, Forming, Pressing, And Compacting Machine Setters, Operators, And Tenders",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Furnace, Kiln, Oven, Drier, And Kettle Operators And Tenders",659,659,0,0,0,178,481,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Inspectors, Testers, Sorters, Samplers, And Weighers",2415,1775,135,102,111,530,141,44,0,0,83,111,402,0,116,640,0,0,0,0,0,0,0,0,423,0,0,155,62
+PRD-Jewelers And Precious Stone And Metal Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Dental And Ophthalmic Laboratory Technicians And Medical Appliance Technicians,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,0,0,0,0,0,0,90
+PRD-Packaging And Filling Machine Operators And Tenders,48,48,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Painting Workers,90,0,0,0,0,0,0,0,0,0,0,0,0,0,0,90,0,0,0,0,90,0,0,0,0,0,0,0,0
+PRD-Photographic Process Workers And Processing Machine Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Adhesive Bonding Machine Operators And Tenders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Etchers And Engravers,95,95,0,0,0,0,0,95,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Molders, Shapers, And Casters, Except Metal And Plastic",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Paper Goods Machine Setters, Operators, And Tenders",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Tire Builders,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+PRD-Helpers--Production Workers,316,316,0,0,0,0,0,188,0,0,0,0,128,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"PRD-Miscellaneous Production Workers, Including Equipment Operators And Tenders",4379,3111,185,0,387,40,227,0,281,309,766,378,275,98,165,1268,0,0,67,0,50,0,339,179,0,0,122,0,511
+TRN-Supervisors Of Transportation And Material Moving Workers,168,109,48,0,0,0,0,0,0,0,0,0,0,61,0,59,0,0,0,0,0,0,0,0,0,0,59,0,0
+TRN-Aircraft Pilots And Flight Engineers,247,247,0,0,0,0,0,131,0,116,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Air Traffic Controllers And Airfield Operations Specialists,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Flight Attendants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRN-Ambulance Drivers And Attendants, Except Emergency Medical Technicians",125,125,0,0,0,0,125,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRN-Bus Drivers, School",79,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,0,0,0,0,0,0,0,0,79,0,0,0,0
+"TRN-Bus Drivers, Transit And Intercity",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Driver/Sales Workers And Truck Drivers,9670,8289,178,267,629,422,1083,578,380,787,143,1028,121,1092,1581,1381,0,0,213,321,275,0,0,0,0,0,0,102,470
+TRN-Shuttle Drivers And Chauffeurs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Taxi Drivers,899,899,0,65,0,0,0,0,0,226,0,90,261,55,202,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRN-Motor Vehicle Operators, All Other",535,0,0,0,0,0,0,0,0,0,0,0,0,0,0,535,0,0,0,0,0,78,0,0,0,457,0,0,0
+TRN-Locomotive Engineers And Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Railroad Conductors And Yardmasters,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Other Rail Transportation Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRN-Sailors And Marine Oilers, And Ship Engineers",137,137,0,0,0,0,0,0,0,60,0,33,44,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Ship And Boat Captains And Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Parking Attendants,875,577,379,0,80,0,0,118,0,0,0,0,0,0,0,298,0,298,0,0,0,0,0,0,0,0,0,0,0
+TRN-Transportation Service Attendants,93,93,0,93,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Transportation Inspectors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Passenger Attendants,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Other Transportation Workers,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Crane And Tower Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+"TRN-Conveyor, Dredge, And Hoist and Winch Operators",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Industrial Truck And Tractor Operators,1035,1035,0,0,231,0,563,0,62,0,74,0,0,0,105,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Cleaners Of Vehicles And Equipment,1359,678,0,78,241,0,0,270,0,0,0,89,0,0,0,681,0,0,81,0,0,0,0,203,0,287,110,0,0
+"TRN-Laborers And Freight, Stock, And Material Movers, Hand",15617,13233,1913,1885,1236,1844,712,974,1300,78,76,1175,696,779,565,2384,0,3,539,0,114,507,176,223,82,271,0,469,0
+TRN-Machine Feeders And Offbearers,256,0,0,0,0,0,0,0,0,0,0,0,0,0,0,256,0,0,0,155,101,0,0,0,0,0,0,0,0
+"TRN-Packers And Packagers, Hand",3785,1877,0,0,332,278,262,0,87,139,301,209,95,131,43,1908,0,128,614,197,268,0,434,0,0,133,0,134,0
+TRN-Stockers And Order Fillers,9625,6763,836,725,1230,1191,1014,372,434,261,52,252,183,135,78,2862,117,178,279,333,278,286,309,226,0,460,147,249,0
+TRN-Pumping Station Operators,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Refuse And Recyclable Material Collectors,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+TRN-Other Material Moving Workers,135,135,0,0,0,0,0,135,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MIL-Military Officer Special And Tactical Operations Leaders,236,236,0,0,0,0,0,0,0,111,0,0,63,62,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MIL-First-Line Enlisted Military Supervisors,121,121,0,0,0,0,0,79,0,0,0,42,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+MIL-Military Enlisted Tactical Operations And Air/Weapons Specialists And Crew Members,1341,1136,60,393,135,20,62,19,438,9,0,0,0,0,0,205,0,0,0,0,205,0,0,0,0,0,0,0,0
+"MIL-Military, Rank Not Specified",910,560,0,135,209,11,117,88,0,0,0,0,0,0,0,350,0,0,205,0,0,0,0,93,0,0,0,0,52
+"Unemployed, With No Work Experience In The Last 5 Years Or Earlier Or Never Worked",6194,4677,1425,336,500,291,682,55,132,232,93,89,98,569,175,1517,143,573,0,0,0,0,381,0,0,304,116,0,0
+N/A (less than 16 years old/NILF who last worked more than 5 years ago or never worked),64175,31236,7752,4366,2972,2367,1284,3215,2093,1313,885,1175,1004,1208,1602,32939,5912,3398,4326,4134,2154,2209,2797,2057,892,1357,1362,880,1461
